@@ -2,6 +2,8 @@
 
 My script files for Ubuntu. Also some mostly used commands for myself to remember.
 
+## Memory Usage and swappiness [here](/docs/memory.md)
+
 ## Commands
 Sorted alphabetically :
 
@@ -22,6 +24,10 @@ To see how much time has elapsed since my laptop had a shutdown.
 To see who are you ( the user you are logged in with)
   ` $ whoami `
   
+## Android
+### Change IMEI Number [here](/docs/change-imei-no.md)
+
+
 # License
 
 GNU/GPL v3
