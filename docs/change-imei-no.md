@@ -9,7 +9,7 @@
 * Type 
 	`AT+EGMR=1,7,"IMEI_NUMBER1"` for SIM 1
 	`AT+EGMR=1,10,"IMEI_NUMBER2"` for SIM 2
-* Push SEND AT COMMAND
+* Push `SEND AT COMMAND`
 * A notification message will be displayed saying `AT command is Msend`
 * Restart mobile and the IMEI number will be changed.
 
